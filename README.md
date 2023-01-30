@@ -1,5 +1,5 @@
-# Player Worlds - Beta Version
-## Allow your players to create & manage their own worlds, no bungeecord needed.
+# Player Worlds - Per Player Worlds.
+### Allow your players to create and manage their own worlds. 
 
 ## Features
 * World navigator via a `/join` command or the custom server list panel.
