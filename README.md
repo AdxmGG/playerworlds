@@ -1,2 +1,2 @@
-# playerworlds
-Allow your players to create &amp; manage their own worlds.
+# Player Worlds - Beta Version
+## Allow your players to create & manage their own worlds.
