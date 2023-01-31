@@ -8,4 +8,5 @@
 * Full permissions and group manager per world, as well as chat formatting options.
 * Network owners have complete and unresricted control over player-created worlds via commands such as `/suspend` or `/delete`.
 * Template Creator for network owners, allowing them to create and manage custom world templates.
+* Skript based API to allow your scripts to tie in with Player Worlds.
 * All features and commands fully documented.
