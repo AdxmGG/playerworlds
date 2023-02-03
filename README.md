@@ -12,4 +12,5 @@
 
 ## Wiki
 ◉ [Features](https://github.com/AdxmGG/playerworlds/wiki/Features)
+
 📄 [Skript Based API](https://github.com/AdxmGG/playerworlds/wiki/Skript-Based-API)
