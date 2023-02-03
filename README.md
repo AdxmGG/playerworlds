@@ -10,7 +10,7 @@
 * Network owners have **FULL CONTROL** over all player-created worlds via commands including `/suspend` or `/delete`.
 * Skript-based **API** that allows you to adapt and use Player Worlds within your own scripts.
 
-## Wiki
-◉ [Features](https://github.com/AdxmGG/playerworlds/wiki/Features)
+## Pages
+🌍 [Feature List](https://github.com/AdxmGG/playerworlds/wiki/🌍-Features)
 
-📄 [Skript Based API](https://github.com/AdxmGG/playerworlds/wiki/Skript-Based-API)
+🧑‍💻 [Skript Based API](https://github.com/AdxmGG/playerworlds/wiki/🧑%E2%80%8D💻-Skript-Based-API)
