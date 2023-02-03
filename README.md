@@ -10,3 +10,6 @@
 * Template Creator for network owners, allowing them to create and manage custom world templates.
 * Skript based API to allow your scripts to tie in with Player Worlds.
 * All features and commands fully documented.
+
+## Wiki
+📄 [Skript Based API](https://github.com/AdxmGG/playerworlds/wiki/Skript-Based-API)
